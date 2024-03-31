@@ -29,5 +29,3 @@ This project deals with the triangulation of data obtained from STL files. The k
 2. Cube
   ![Screenshot (7)](https://github.com/Sumit-Giri/QT_Window/assets/158052390/cdf2b3d6-ec86-4417-9d15-1c9c433982ac)
 
-
-has context menu
